@@ -1,7 +1,5 @@
 # Laravel TDD CICD
 
-![Run Tests](https://github.com/YOUR_USERNAME/YOUR_REPO/workflows/Run%20Tests/badge.svg)
-
 ## 概要
 TDDで開発したTodoアプリです。
 CI/CDでテストを自動化しています。
